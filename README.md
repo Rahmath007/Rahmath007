@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # Hi, I'm Rahmath 👋
 
 I'm a graduate Software & AI Engineer based in Manchester, UK.
@@ -28,4 +28,4 @@ I'm a graduate Software & AI Engineer based in Manchester, UK.
 - MSc Project – Player Minutes Prediction (coming soon)  
 - MERN Blogging App (coming soon)
 
--->
+
