@@ -6,7 +6,7 @@
 I'm a graduate Software & AI Engineer based in Manchester, UK.
 
 - 🎓 BSc Software Development  
-- 🎓 MSc Artificial Intelligence (Merit)  
+- 🎓 MSc Artificial Intelligence  
 - 💼 3+ years as Team Leader at Yo! Sushi  
 - 🔧 Interested in Technical Support, Application Support, and Graduate Software roles  
 
@@ -25,7 +25,7 @@ I'm a graduate Software & AI Engineer based in Manchester, UK.
 - [API Checker Tool](https://github.com/Rahmath007/api-checker-tool)  
   Script that checks API URLs, prints status codes, and handles connection/timeouts.
 
-- MSc Project – Player Minutes Prediction (coming soon)  
-- MERN Blogging App (coming soon)
+- MSc Project – Player Minutes Prediction  
+- BSc Project - MERN Blogging App
 
 
