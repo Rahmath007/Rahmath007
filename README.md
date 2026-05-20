@@ -154,4 +154,4 @@ I am currently focused on:
 # Contact
 
 - GitHub: https://github.com/Rahmath007
-- LinkedIn: Add your LinkedIn URL here
+- [LinkedIn: Add your LinkedIn URL here](https://www.linkedin.com/in/rahmath-mozumder-41ba1a265/)
